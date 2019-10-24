@@ -18,5 +18,5 @@ class LinkCollector:
 
 if __name__ == "__main__":
     LinkCollector(sys.argv[1]).collect_links()
-#comment
+#comments
 
